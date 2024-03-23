@@ -1,5 +1,3 @@
-# A-B-Testing-on-Different-Versions-of-a-Website
-
 # A/B Testing Project README
 
 ## Business Case
